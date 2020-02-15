@@ -26,7 +26,7 @@ extras_require = {
     'dev': [
         "boto3==1.9.233",
         "bumpversion==0.5.3",
-        "PyInstaller==3.5",
+        "PyInstaller==3.6",
         "pytest==5.2.1",
         "pytest-cov==2.8.1",
         "twine==2.0.0",
