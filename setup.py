@@ -29,7 +29,7 @@ extras_require = {
         "PyInstaller==3.5",
         "pytest==5.2.1",
         "pytest-cov==2.8.1",
-        "twine==2.0.0",
+        "twine==3.1.1",
         "mock==3.0.5",
         "when-changed"
     ]
