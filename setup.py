@@ -52,7 +52,7 @@ setup(
     author_email='support@skalelabs.com',
     url='https://github.com/skalenetwork/skale-node-cli',
     install_requires=[
-        "click==7.0",
+        "click==7.1.1",
         "confuse",
         "readsettings==3.4.5",
         "web3==5.2.2",
